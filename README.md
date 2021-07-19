@@ -3,7 +3,6 @@
 ## Installation
 
 Anda dapat melakukan instalasi melalui Composer di https://packagist.org/packages/ocs/wplib
-```
 
 ## Requirements
 
