@@ -1,0 +1,17 @@
+{
+    "name": "ocs/wplib",
+    "description": "Library SPK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajenkris Yanto Kungkung",
+            "email": "kristt26@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"ocs\\wplib\\": "src/"}
+    },
+    "require": {}
+}
