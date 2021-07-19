@@ -79,6 +79,5 @@ $alternatif = [
 ];
 
 $a = new wp($kriteria, $alternatif, 0);
+$b = $a->ranking;
 echo json_encode($a->ranking);
-
-
