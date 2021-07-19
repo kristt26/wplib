@@ -12,6 +12,9 @@ Anda dapat melakukan instalasi melalui Composer di https://packagist.org/package
 ## Documentation
 
 ```php
+require "vendor/autoload.php";
+
+use ocs\wplib\Wplibs as wp;
 $kriteria = [
     [
         'nama' => 'Kecepatan',
