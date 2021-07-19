@@ -1,7 +1,7 @@
 <?php
 namespace ocs\wplib;
 
-class Wplibs
+class Wplib
 {
     protected int $limit;
     protected array $kriteria;

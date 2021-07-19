@@ -2,7 +2,7 @@
 
 require "Wplib.php";
 
-use ocs\wplib\Wplibs as wp;
+use ocs\wplib\Wplib as wp;
 
 $kriteria = [
     [
